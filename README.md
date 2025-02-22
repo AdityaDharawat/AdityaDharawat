@@ -14,3 +14,5 @@
 
 ### 📦 **Other Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/:storeId)
