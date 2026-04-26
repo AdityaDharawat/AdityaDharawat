@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="assets/header.svg" />
+	<img src="assets/banner.png" />
 </p>
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="25"/> Tech Stack
