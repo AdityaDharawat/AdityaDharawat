@@ -1,3 +1,13 @@
+<p align="center">
+	<img src="assets/header.svg" />
+</p>
+
+## Contribution Graph
+
+<p align="center">
+	<img src="https://github.com/AdityaDharawat/AdityaDharawat/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="25"/> Tech Stack
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> Web Development  
