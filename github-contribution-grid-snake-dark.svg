@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Root-level placeholder dark snake SVG. Will be replaced by workflow output. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="120" viewBox="0 0 680 120">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#c9d1d9" font-family="Inter, sans-serif" font-size="14">Placeholder: github-contribution-grid-snake-dark.svg</text>
+</svg>
