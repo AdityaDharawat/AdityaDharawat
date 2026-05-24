@@ -93,6 +93,23 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2"/>
 </p>
 
+## Contribution Graph
+
+<p align="center">
+  <img 
+    width="100%" 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+    alt="github contribution snake animation"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2"
+    width="100%"
+  />
+</p>
+
 ## GitHub Analytics
 
 <p align="center">
