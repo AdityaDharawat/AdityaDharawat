@@ -35,9 +35,14 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2"/>
 </p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="aditya-dharawat-b94757321" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aditya-dharawat-b94757321?trk=profile-badge">Aditya Dharawat</a></div>
-              
+
+<div align="center">
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="aditya-dharawat-b94757321" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/aditya-dharawat-b94757321?trk=profile-badge">Aditya Dharawat</a>
+  </div>
+</div>
+
 
 ## Tech Stack
 
