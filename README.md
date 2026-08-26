@@ -11,8 +11,8 @@
     <img src="https://img.shields.io/badge/GitHub-Open_Source-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://in.linkedin.com/in/aditya-dharawat-b94757321">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://in.linkedin.com/in/adityadharawat">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya_Dharawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aditya Dharawat on LinkedIn"/>
   </a>
 </p>
 
@@ -34,12 +34,6 @@
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2"/>
-</p>
-
-<p align="center">
-  <a href="https://in.linkedin.com/in/aditya-dharawat-b94757321" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya_Dharawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aditya Dharawat on LinkedIn" />
-  </a>
 </p>
 
 
